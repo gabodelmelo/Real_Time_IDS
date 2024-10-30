@@ -13,7 +13,7 @@ The project leverages the scapy library for packet capture and feature extractio
 - Intrusion Detection: Use a machine learning model to classify network packets in real-time, providing predictions on potential intrusions.
 - Scalability: Enable multi-threaded packet capture and processing to handle high network traffic without packet loss.
 
-Steps Taken
+## Steps Taken
 1. Project Setup
 
     Installed necessary libraries including scapy for packet capture, pandas for data handling, and scikit-learn for machine learning model training and prediction.
